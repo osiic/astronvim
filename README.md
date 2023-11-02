@@ -1,7 +1,6 @@
 # AstroNvim
 A Frist Nvim configuration template for [AstroNvim](https://github.com/AstroNvim/AstroNvim)
 
-<br />
 
 ## 🛠️ Installation Astrnvim
 Skip this for those with Astronvim's default init
@@ -13,7 +12,6 @@ git clone --depth 1 https://github.com/AstroNvim/AstroNvim $env:LOCALAPPDATA\nvi
 ```shell
 git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim/
 ```
-<br />
 
 ## 🛠️ Setup Config
 Copy this one if it's just the configuration
