@@ -6,7 +6,7 @@ A Frist Nvim configuration template for [AstroNvim](https://github.com/AstroNvim
 - Terminal : [alacritty](https://alacritty.org/) cara download di [sini](https://linuxhint.com/install-alacritty-linux-mint/)
 
 
-## 🛠️ Installation Astrnvim
+# 🛠️ Installation Astrnvim
 Skip this for those with Astronvim's default init
 #### Windows
 ```shell
